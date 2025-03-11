@@ -32,8 +32,8 @@ Check out my GitHub repositories for my latest work!
 ---
 
 ## 📫 Connect With Me
-- 💼 **GitHub:** [github.com/Tanujeet-Singh](https://github.com/your-username)
-- 📧 **Email:** your-email@example.com
-- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 **GitHub:** [[github.com/Tanujeet-Singh](https://github.com/your-username)](https://github.com/Tanujeet)
+- 📧 **Email:** singhtanujeet@gmail.com
+- 🔗 **LinkedIn:** [[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/tanujeet-singh-04a181315/)
 
 Let's build something awesome together! 🚀✨
