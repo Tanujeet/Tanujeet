@@ -1,39 +1,49 @@
-# Hi there! 👋 I'm Tanujeet Singh
+Hi there! 👋 I'm Tanujeet Singh
+🚀 Front-End Developer | Passionate About Web Development & UI/UX
 
-🚀 Front-End Developer | Passionate about Web Development & UI/UX
+🔥 About Me
+Hey! I'm Tanujeet, a passionate Front-End Developer who loves bringing ideas to life through modern, interactive web applications.
 
----
+🔹 I specialize in React.js, Tailwind CSS, and animations to create smooth & engaging user experiences.
+🔹 I’m constantly learning and experimenting with JavaScript & UI/UX to improve my craft.
 
-## 🔥 About Me
-Hey! I'm Tanujeet, a **Front-End Developer** who loves building interactive, user-friendly web applications. I have a strong foundation in **HTML, CSS, and JavaScript**, and I'm mastering **React.js** to create modern, dynamic websites. 
+💡 Why Web Development?
 
-### 🌱 Currently Learning
-- **React.js** ⚛️ (Building my own portfolio!)
-- **JavaScript** (Deep diving into advanced concepts)
-- **UI/UX Design** (Making designs that impress!)
+"Ever since I wrote my first line of code, I knew this was my passion. Turning ideas into interactive websites is what drives me every day!"
 
-### 🛠 Tech Stack
-- 💻 **Languages:** HTML, CSS, JavaScript
-- 🎨 **Frameworks & Libraries:** React.js, Tailwind CSS, GSAP
-- 🛠 **Tools:** Git & GitHub, VS Code, Figma, Firebase
+🌱 Currently Learning
+📌 React.js ⚛️ – Building scalable, dynamic websites.
+📌 Advanced JavaScript – Deep diving into logic & performance optimization.
+📌 UI/UX Design 🎨 – Creating stunning, user-friendly interfaces.
 
----
+🛠 Tech Stack
+💻 Languages: HTML, CSS, JavaScript
+🎨 Frameworks & Libraries: React.js, Tailwind CSS, GSAP, Locomotive Scroll
+🛠 Tools: Git & GitHub, VS Code, Figma, Firebase
 
-## 🚀 Projects
-### 🎨 Portfolio Website *(Coming Soon!)*
-A sleek and modern personal portfolio showcasing my skills and projects.
+🚀 Projects
+🎨 Portfolio Website (Coming Soon!)
+A sleek and modern personal portfolio showcasing my skills & projects.
+🔹 Tech Used: React.js, Tailwind CSS, GSAP
 
-### 📊 Interactive Dashboard *(In Progress)*
-A React-based admin dashboard with dynamic UI components.
+📊 Interactive Admin Dashboard (In Progress)
+A React-based admin dashboard with real-time data visualization, dynamic UI components, and smooth animations.
+🔗 Live Demo (If available): Coming Soon
+🔹 Tech Used: React.js, Chart.js, Tailwind CSS
 
-### 📝 More Projects Coming!
-Check out my GitHub repositories for my latest work!
+🌎 Zentry Clone (Completed)
+A frontend clone of Zentry, built with smooth animations and an interactive UI.
+🔗 Live Demo: 🔗 Zentry Clone
+🔹 Tech Used: React.js, Tailwind CSS, GSAP, Locomotive Scroll
 
----
+📊 GitHub Dashboard & Stats
 
-## 📫 Connect With Me
-- 💼 **GitHub:** [[github.com/Tanujeet-Singh](https://github.com/your-username)](https://github.com/Tanujeet)
-- 📧 **Email:** singhtanujeet@gmail.com
-- 🔗 **LinkedIn:** [[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/tanujeet-singh-04a181315/)
 
-Let's build something awesome together! 🚀✨
+📫 Connect With Me
+💼 GitHub: github.com/Tanujeet-Singh
+📧 Email: singhtanujeet@gmail.com
+🔗 LinkedIn: linkedin.com/in/tanujeet-singh-04a181315
+
+✨ Let's build something awesome together! 🚀💻
+
+
