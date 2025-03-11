@@ -38,15 +38,15 @@ A frontend clone of Zentry, built with smooth animations and an interactive UI.
 
 📊 GitHub Dashboard & Stats
 
-![Tanujeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanujeet-Singh&show_icons=true&theme=radical)  
+![Tanujeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanujeet&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanujeet-Singh&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanujeet&layout=compact&theme=radical)  
 
 ## 🏆 GitHub Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tanujeet-Singh&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tanujeet&theme=radical)  
 
 ## 📈 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanujeet-Singh&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanujeet&theme=radical)  
 
 
 
