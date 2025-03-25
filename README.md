@@ -46,7 +46,7 @@ Hey! I'm Tanujeet, a passionate Front-End Developer who loves transforming ideas
 
 📧 Email: singhtanujeet@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/tanujeet-singh-04a181315
+🔗 LinkedIn: www.linkedin.com/in/tanujeetsingh
 
 ✨ Let's build something awesome together! 🚀💻
 
