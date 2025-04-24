@@ -1,33 +1,36 @@
-Hi, I'm Tanujeet Singh
-🚀 MERN Stack Developer | Building Data-Driven Dashboards & Modern Web Apps
+### Hi 👋, I'm Tanujeet Singh
 
-I'm a MERN Stack Developer passionate about crafting full-stack applications with smooth UI, real-time interactions, and insightful dashboards that visualize user progress and key metrics.
+🚀 **MERN Stack Developer** | Passionate about building modern web apps with smooth UI/UX
 
-🛠️ Tech Stack
-Frontend: React.js, Next.js, Tailwind CSS, JavaScript, GSAP, Locomotive Scroll
-Backend: MongoDB, Express.js, Node.js
-Tools: Git & GitHub, Firebase, Figma, VS Code
+I'm a developer who loves turning ideas into sleek, responsive, and interactive web applications.  
+I specialize in building full-stack applications using the **MERN stack** along with rich UI and animations.
 
-💡 What I Do
-Build full-stack apps with modern UI/UX
+🌱 Currently learning: Advanced React.js & UI design
 
-Develop interactive dashboards that track progress and display real-time data
+---
 
-Create smooth animations and scroll-based effects
+### 🔧 Tech Stack & Tools
+- **Frontend:** React.js, Next.js, Tailwind CSS, JavaScript, GSAP, Locomotive Scroll  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Tools:** Git & GitHub, Firebase, Figma, VS Code
 
-Focus on clean code, performance, and user-centered design
+---
 
-🔥 Projects
-Portfolio Website (Coming Soon) – A modern, animated showcase of my skills and work
+### 📊 Projects
+- 🎨 **Portfolio Website** *(Coming Soon)* – Built with React, Tailwind & GSAP  
+- 📈 **Interactive UI Projects** *(In Progress)* – Exploring animations and clean design  
+- 🔁 **Zentry Clone** – Smooth animations & interactive frontend experience
 
-Progress Dashboard (In Progress) – Visualizing tasks, goals, and real-time stats
+---
 
-Zentry Clone – A frontend clone with immersive animations and responsive UI
+### 📫 Connect With Me
+- **GitHub:** [Tanujeet-Singh](https://github.com/Tanujeet-Singh)  
+- **LinkedIn:** [linkedin.com/in/tanujeetsingh](https://www.linkedin.com/in/tanujeetsingh)  
+- **Email:** singhtanujeet@gmail.com
 
-📫 Let's Connect
-🔗 GitHub | LinkedIn
-📧 singhtanujeet@gmail.com
+---
 
+✨ Let's build something awesome together!
 
 
 
