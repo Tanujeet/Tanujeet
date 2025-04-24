@@ -1,54 +1,32 @@
- Hi there! I'm Tanujeet Singh
+Hi, I'm Tanujeet Singh
+🚀 MERN Stack Developer | Building Data-Driven Dashboards & Modern Web Apps
 
-🚀 Front-End Developer | Passionate About Web Development & UI/UX
+I'm a MERN Stack Developer passionate about crafting full-stack applications with smooth UI, real-time interactions, and insightful dashboards that visualize user progress and key metrics.
 
-🔥 About Me
+🛠️ Tech Stack
+Frontend: React.js, Next.js, Tailwind CSS, JavaScript, GSAP, Locomotive Scroll
+Backend: MongoDB, Express.js, Node.js
+Tools: Git & GitHub, Firebase, Figma, VS Code
 
-Hey! I'm Tanujeet, a passionate Front-End Developer who loves transforming ideas into modern, interactive web applications. I specialize in building sleek user interfaces and smooth animations to create engaging digital experiences.
+💡 What I Do
+Build full-stack apps with modern UI/UX
 
-💻 Tech Stack: HTML, CSS, JavaScript, React.js, Tailwind CSS, GSAP, Locomotive Scroll
+Develop interactive dashboards that track progress and display real-time data
 
-🛠️ Tools: Git & GitHub, VS Code, Figma, Firebase
+Create smooth animations and scroll-based effects
 
-🎯 Focus: Clean code, performance optimization, and crafting intuitive UI/UX.
+Focus on clean code, performance, and user-centered design
 
-🌱 Currently Learning
+🔥 Projects
+Portfolio Website (Coming Soon) – A modern, animated showcase of my skills and work
 
-⚛️ React.js: Building scalable, dynamic web applications.
+Progress Dashboard (In Progress) – Visualizing tasks, goals, and real-time stats
 
-📌 Advanced JavaScript: Enhancing logic & performance.
+Zentry Clone – A frontend clone with immersive animations and responsive UI
 
-🎨 UI/UX Design: Creating beautiful, user-friendly interfaces.
-
-🚀 Projects
-
-🎨 Portfolio Website (Coming Soon!)Designed and built a modern portfolio to showcase my skills and projects.Tech Used: React.js, Tailwind CSS, GSAP
-
-📊 Interactive Admin Dashboard (In Progress)Developing a dynamic admin dashboard with real-time data visualization and smooth UI components.Tech Used: React.js, Chart.js, Tailwind CSS
-
-🌐 Zentry Clone (Completed)Created a frontend clone of Zentry with smooth animations and an interactive UI.Tech Used: React.js, Tailwind CSS, GSAP, Locomotive ScrollLive Demo
-
-📊 GitHub Stats
-
-
-
-🏆 GitHub Achievements
-
-
-
-📈 GitHub Streak
-
-
-
-📫 Connect With Me
-
-💼 GitHub: github.com/Tanujeet-Singh
-
-📧 Email: singhtanujeet@gmail.com
-
-🔗 LinkedIn: www.linkedin.com/in/tanujeetsingh
-
-✨ Let's build something awesome together! 🚀💻
+📫 Let's Connect
+🔗 GitHub | LinkedIn
+📧 singhtanujeet@gmail.com
 
 
 
