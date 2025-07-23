@@ -117,15 +117,6 @@ graph LR
 ```
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanujeet&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📊 Activity Graph
 
 <div align="center">
