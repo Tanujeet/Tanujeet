@@ -67,18 +67,6 @@
 </div>
 
 ---
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[🚀 Building AI-Powered SaaS] --> B[💼 Seeking Internships]
-    B --> C[🎨 Improving UI/UX Skills]
-    C --> D[🔧 Learning Advanced React]
-    D --> A
-```
-
----
 ## 📊 Activity Graph
 
 <div align="center">
