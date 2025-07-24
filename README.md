@@ -52,44 +52,6 @@
 
 </div>
 
----
-
-## 📊 Featured Projects
-
-<div align="center">
-
-### 🧠 HireSense - AI Resume Analyzer
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanujeet/hiresense)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://hiresense.vercel.app)
-
-**Tech Stack:** Next.js, OpenAI API, Tailwind CSS, Prisma, PostgreSQL  
-AI-powered resume analysis with ATS scoring and improvement suggestions
-
-### 🎯 PitchCraft - AI Pitch Deck Generator  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanujeet/pitchcraft)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://pitchcraft.vercel.app)
-
-**Tech Stack:** Next.js, OpenAI API, Prisma, PostgreSQL, Clerk Auth  
-Generate professional pitch decks with AI-powered content creation
-
-### 📁 StoreIt - File Management System
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanujeet/storeit)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://storeit.vercel.app)
-
-**Tech Stack:** Next.js, Appwrite, Tailwind CSS, TypeScript  
-Secure file upload, preview, and organization with modern UI
-
-### 🎤 Converso - AI Voice Assistant
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanujeet/converso)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://converso.vercel.app)
-
-**Tech Stack:** Next.js, Supabase, Voice API, Tailwind CSS  
-AI-powered voice assistant for educational guidance and support
-
-</div>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
