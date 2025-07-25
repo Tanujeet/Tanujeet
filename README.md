@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;AI+%26+SaaS+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanujeet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Tanujeet?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat&logo=handshake" alt="Open to Internships">
-</div>
-
 ## 🚀 About Me
 
 🔭 **MERN Stack Developer** passionate about building modern web apps with smooth UI/UX  
