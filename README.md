@@ -9,14 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=Tanujeet&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
-## 🚀 About Me
-
-**Full Stack Developer** specializing in **MERN Stack & Next.js** with 4+ deployed projects  
-🎯 Building AI-powered SaaS applications and modern web experiences  
-💼 Actively seeking **remote internship opportunities**  
-📧 **singhtanujeet@gmail.com** | 💬 Let's connect and build something amazing!
-
----
+**Full Stack Developer** | MERN & Next.js Specialist | Building AI-powered SaaS Applications  
+📧 **singhtanujeet@gmail.com** | 🌐 [LinkedIn](https://linkedin.com/in/tanujeetsingh)
 
 ## 💻 Tech Stack
 
@@ -33,44 +27,6 @@
 
 </div>
 
----
-
-## 📊 Featured Projects
-
-<div align="center">
-
-### 🧠 HireSense - AI Resume Analyzer
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanujeet/hiresense)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://hiresense.vercel.app)
-
-**Tech Stack:** Next.js, OpenAI API, Tailwind CSS, Prisma, PostgreSQL  
-AI-powered resume analysis with ATS scoring and improvement suggestions
-
-### 🎯 PitchCraft - AI Pitch Deck Generator  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanujeet/pitchcraft)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://pitchcraft.vercel.app)
-
-**Tech Stack:** Next.js, OpenAI API, Prisma, PostgreSQL, Clerk Auth  
-Generate professional pitch decks with AI-powered content creation
-
-### 📁 StoreIt - File Management System
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanujeet/storeit)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://storeit.vercel.app)
-
-**Tech Stack:** Next.js, Appwrite, Tailwind CSS, TypeScript  
-Secure file upload, preview, and organization with modern UI
-
-### 🎤 Converso - AI Voice Assistant
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanujeet/converso)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://converso.vercel.app)
-
-**Tech Stack:** Next.js, Supabase, Voice API, Tailwind CSS  
-AI-powered voice assistant for educational guidance and support
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,60 +37,3 @@ AI-powered voice assistant for educational guidance and support
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanujeet&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[🚀 Building AI-Powered SaaS] --> B[💼 Seeking Internships]
-    B --> C[🎨 Improving UI/UX Skills]
-    C --> D[🔧 Learning Advanced React]
-    D --> A
-```
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanujeet&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanujeet&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanujeetsingh)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanujeet)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhtanujeet@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://tanujeet.dev)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <h3>✨ Let's build something awesome together! ✨</h3>
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-⭐ **From [Tanujeet Singh](https://github.com/Tanujeet)** - *Building the future, one commit at a time* 🚀
-
