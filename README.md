@@ -1,7 +1,7 @@
 # Hi 👋, I'm Tanujeet Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%26+Next.js+Specialist;Open+to+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%26+Next.js+Specialist;Hy There" alt="Typing SVG" />
 </div>
 
 **Full Stack Developer** | MERN & Next.js Specialist | Building AI-powered SaaS Applications  
