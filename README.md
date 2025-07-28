@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%26+Next.js+Specialist;Open+to+Internships" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge&logo=handshake" alt="Open to Internships">
-  <img src="https://komarev.com/ghpvc/?username=Tanujeet&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-
 **Full Stack Developer** | MERN & Next.js Specialist | Building AI-powered SaaS Applications  
 📧 **singhtanujeet@gmail.com** | 🌐 [LinkedIn](https://linkedin.com/in/tanujeetsingh)
 
