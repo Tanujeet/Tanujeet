@@ -3,6 +3,8 @@
 **Full Stack Developer** | MERN & Next.js Specialist | Building AI-powered SaaS Applications  
 📧 **singhtanujeet@gmail.com** | 🌐 [LinkedIn](https://linkedin.com/in/tanujeetsingh)
 
+![Profile views](https://counter.kuber.studio/Tanujeet/light/count.svg)
+
 ## 💻 Tech Stack
 
 <div align="center">
